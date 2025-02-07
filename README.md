@@ -1,4 +1,3 @@
-
 ### Olá Visitante, Meu nome é Fábio 💾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-miguel-1b4b41267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -27,5 +26,6 @@
 
  <div style="display: inline_block"><br/>
  <img align = "center"alt = "Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+</div><br/>
 
+Sempre disposto a melhorar e aprender🌠
